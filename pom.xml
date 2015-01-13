@@ -10,7 +10,7 @@
     <groupId>pt.ist</groupId>
     <artifactId>fenixedu-ist-quc</artifactId>
     <packaging>jar</packaging>
-    <version>4.0.0-SNAPSHOT</version>
+    <version>4.1.0-SNAPSHOT</version>
 
     <name>FenixEdu QUC</name>
     <url>http://quc.tecnico.ulisboa.pt/</url>
